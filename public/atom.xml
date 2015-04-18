@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Bu Benim Dunyam]]></title>
+  <link href="http://http://nelano.net/atom.xml" rel="self"/>
+  <link href="http://http://nelano.net/"/>
+  <updated>2015-04-18T06:44:26+03:00</updated>
+  <id>http://http://nelano.net/</id>
+  <author>
+    <name><![CDATA[Emre Guneyler]]></name>
+    
+  </author>
+
+  
+  <entry>
+    
+    <title type="html"><![CDATA[Rastgele]]></title>
+    <link href="http://nelano.net/blog/2015/04/18/rastgele/"/>
+    
+    <updated>2015-04-18T06:01:01+03:00</updated>
+    <id>http://http://nelano.net/blog/2015/04/18/rastgele</id>
+    
+      <content type="html"><![CDATA[<h2>Bana neden deli diyorlar?</h2>
+
+<p>O kadar parayi şok yapmak için harcadılar, sonuçta birşey yokmuş gibi ortaya çıktım, birşey yoksa o kadar para nereye gitti, birşey varsa ortada neden göremiyorum, farkına varmıyorum, aslında varıyorum, topluma uymuyorum, ben toplum akıllısı değilim, topluma göre deliyim. kendime göre akıllıyım. Bu güzel yazıları yazarım, matematik yaparım, oyun yaparım eğlenirim, spor yaparım, şefkat gösteririm, çocuk oynatırım, topluma uymam. Ben bunları yazarken ben yokmuşum, deliymişim gibi&hellip;, toplumun icinde harbi deliyim. Normal düşünceleri düşünmüyorum toplumun içinde. Bunu anladılar 10 milyar harcadılar aklıma. Beni, deli miyim değil miyim diye test ediyorlar eve gelince. Delilikle meşgul olunca kulaklarım çınlamaya başlar, uzun sürerse kendi aklımı da yitirebilirim. Normalde aklımı 10 milyarı kazanmaya meşgul etmem gerekirken, insanlığa faydalı nasıl olurum ona çalışması gerekirken, başka şeylere fazlaca meşgul olursa, ne ile meşgul olursan ona benzersin, öyle muamele görürsün. Şimdi 10 milyara takmişım gibi gözüküyor, ben bu parayı ödeyemezsem, ne yaparsam yapayım, ben üzerine 10 milyar para harcanmış bir deli muamelesi görüceğim. Umarım öyle olmaz.</p>
+]]></content>
+      
+  </entry>
+  
+</feed>
