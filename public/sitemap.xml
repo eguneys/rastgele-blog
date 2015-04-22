@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://nelano.net/blog/2015/04/22/arada/</loc>
+    <lastmod>2015-04-22T05:47:28+03:00</lastmod>
+  </url>
+  <url>
     <loc>http://nelano.net/blog/2015/04/18/rastgele/</loc>
     <lastmod>2015-04-18T06:01:01+03:00</lastmod>
   </url>
@@ -12,5 +16,11 @@
   </url>
   <url>
     <loc>http://nelano.net/blog/archives/</loc>
+  </url>
+  <url>
+    <loc>http://nelano.net/blog/categories/manik/</loc>
+  </url>
+  <url>
+    <loc>http://nelano.net/blog/categories/ekt/</loc>
   </url>
 </urlset>

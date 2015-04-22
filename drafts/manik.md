@@ -1,0 +1,3 @@
+## Arada
+
+Arada manik oluyorum, hersey iyi gidiyor, acaba mehdi olurmuyum dedigim oldu, dunyayi etrafimda donuyor sandim, boyle guzel yazilar yazdim. Karin acligina uykusuzluga bakmiyor, oluveriyor. Bazen depresif oldum, hafif hafif, kendimi begenmiyorum, utandikca utaniyorum. Sosyal ortamlara girmek beni mutlandiriyor, seviniyorum. Reddedilmek, islerin ters gitmesi, bekletilmek sinirlendiriyor, depresif oluyorum, aslinda ona da bakmiyor gibi, pek de belli olmuyor. Dunyanin hangi hali gercek, ikiside gercek, ikisini de ben yasiyorum. Duygular hareketlerimi belirliyor, dengesizim biraz. Dengede kalabilmem gerekiyor, uclara gitmeden, hafif manik fena olmuyor gibi ama. Bu elektrikle frekanslari tutturmaya calismislar, bazen hizlaniyor, bazen yavasliyor gibi. 

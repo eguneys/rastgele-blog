@@ -1,45 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Bu Benim Dunyam]]></title>
-  <link href="http://http://nelano.net/atom.xml" rel="self"/>
-  <link href="http://http://nelano.net/"/>
+  <title><![CDATA[Category: ekt | Bu Benim Dunyam]]></title>
+  <link href="http://nelano.net/blog/categories/ekt/atom.xml" rel="self"/>
+  <link href="http://nelano.net/"/>
   <updated>2015-04-22T06:02:12+03:00</updated>
-  <id>http://http://nelano.net/</id>
+  <id>http://nelano.net/</id>
   <author>
     <name><![CDATA[Emre Guneyler]]></name>
     
   </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    
     <title type="html"><![CDATA[Arada]]></title>
     <link href="http://nelano.net/blog/2015/04/22/arada/"/>
-    
     <updated>2015-04-22T05:47:28+03:00</updated>
-    <id>http://http://nelano.net/blog/2015/04/22/arada</id>
-    
-      <content type="html"><![CDATA[<h2>Arada</h2>
+    <id>http://nelano.net/blog/2015/04/22/arada</id>
+    <content type="html"><![CDATA[<h2>Arada</h2>
 
 <p>Arada manik oluyorum, herşey iyi gidiyor, ilk zamanlarda, acaba mehdi olurmuyum, dediğim oldu, dünyayı etrafımda dönüyor sandım, böyle güzel yazılar yazdım. Karın açlığına uykusuzluğa bakmıyor, oluveriyor. Bazen depresif oldum, hafif hafif, kendimi beğenmiyorum, utandıkça utanıyorum. Sosyal ortamlara girmek beni mutlandırıyor, seviniyorum. Reddedilmek, işlerin ters gitmesi, bekletilmek sinirlendiriyor, depresif oluyorum, aslında ona da bakmıyor gibi, pek de belli olmuyor. Dünyanın hangi hali gerçek, ikiside gerçek, ikisini de ben yaşıyorum. Duygular hareketlerimi belirliyor, dengesizim biraz. Dengede kalabilmem gerekiyor, uçlara gitmeden, hafif manik fena olmuyor gibi ama. Bu elektrikle frekansları tutturmaya çalışmışlar, bazen hızlanıyor, bazen yavaşlıyor gibi.</p>
 ]]></content>
-      
   </entry>
   
   <entry>
-    
     <title type="html"><![CDATA[Rastgele]]></title>
     <link href="http://nelano.net/blog/2015/04/18/rastgele/"/>
-    
     <updated>2015-04-18T06:01:01+03:00</updated>
-    <id>http://http://nelano.net/blog/2015/04/18/rastgele</id>
-    
-      <content type="html"><![CDATA[<h2>Bana neden deli diyorlar?</h2>
+    <id>http://nelano.net/blog/2015/04/18/rastgele</id>
+    <content type="html"><![CDATA[<h2>Bana neden deli diyorlar?</h2>
 
 <p>O kadar parayi şok yapmak için harcadılar, sonuçta birşey yokmuş gibi ortaya çıktım, birşey yoksa o kadar para nereye gitti, birşey varsa ortada neden göremiyorum, farkına varmıyorum, aslında varıyorum, topluma uymuyorum, ben toplum akıllısı değilim, topluma göre deliyim. kendime göre akıllıyım. Bu güzel yazıları yazarım, matematik yaparım, oyun yaparım eğlenirim, spor yaparım, şefkat gösteririm, çocuk oynatırım, topluma uymam. Ben bunları yazarken ben yokmuşum, deliymişim gibi&hellip;, toplumun icinde harbi deliyim. Normal düşünceleri düşünmüyorum toplumun içinde. Bunu anladılar 10 milyar harcadılar aklıma. Beni, deli miyim değil miyim diye test ediyorlar eve gelince. Delilikle meşgul olunca kulaklarım çınlamaya başlar, uzun sürerse kendi aklımı da yitirebilirim. Normalde aklımı 10 milyarı kazanmaya meşgul etmem gerekirken, insanlığa faydalı nasıl olurum ona çalışması gerekirken, başka şeylere fazlaca meşgul olursa, ne ile meşgul olursan ona benzersin, öyle muamele görürsün. Şimdi 10 milyara takmişım gibi gözüküyor, ben bu parayı ödeyemezsem, ne yaparsam yapayım, ben üzerine 10 milyar para harcanmış bir deli muamelesi görüceğim. Umarım öyle olmaz.</p>
 ]]></content>
-      
   </entry>
   
 </feed>

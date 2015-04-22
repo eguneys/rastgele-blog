@@ -3,7 +3,7 @@ layout: post
 title: "Rastgele"
 date: 2015-04-18 06:01:01 +0300
 comments: true
-categories: 
+categories: Manik EKT
 ---
 
 ## Bana neden deli diyorlar?
